@@ -1,2 +1,4 @@
-# 6073-code-library-
-a place 6073 dump code for use 
+# 6073-code-library
+This is where the code go for robotics teams:
+FRC :6073
+FTC:24369
